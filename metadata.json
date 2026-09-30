@@ -1,0 +1,6 @@
+{
+  "name": "Metro Cab 3D: Taxi Driver Simulator",
+  "description": "An open-world 3D cab driving and passenger transport simulator featuring multiple connected districts, dynamic traffic, passenger jobs, GPS navigation, and vehicle tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
